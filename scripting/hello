@@ -1,8 +1,10 @@
 #! /bin/bash
-echo "hello world"
+echo "goodby world"
+
+uname -ar
 
 function greet {
-  echo "Hello, $1!"
+  echo "goodby, $1!"
 }
 
-greet "World" # Output: Hello, World!
+greet "World"
