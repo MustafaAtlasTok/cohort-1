@@ -1,0 +1,9 @@
+# Basics navigation
+pwd, ls, cd 
+
+# File directory/ manipulation
+mkdir, rm, cp, mv, cat 
+
+
+# file permission 
+chmod 
